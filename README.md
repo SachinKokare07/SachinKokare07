@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi, I'm Sachin Kokare 👋</h1>
+<h1>Hi, I'm Sachin Kokare</h1>
 <h3>Full-Stack Developer | AI-Driven Applications | Cloud & DevOps</h3>
 
 <p>
@@ -25,19 +25,19 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Final-year B.E. student in Electronics & Telecommunication @ **PICT, Pune** — CGPA: 9.0/10
-- 💼 Software Engineer Intern with hands-on experience in backend systems, cloud deployment, and CI/CD automation
-- ⚡ Shipped Django & Spring Boot microservices on AWS, cutting API latency by **40%** and eliminating deployment failures
-- 🤖 Passionate about building AI-powered full-stack applications and scalable distributed systems
-- 🧩 Solved **300+ DSA problems** on LeetCode and GeeksforGeeks
-- 🏆 Secured **1st Place** at a State-Level Technical Paper Presentation
-- 📍 Based in Pune, Maharashtra, India
+- Final-year B.E. student in Electronics & Telecommunication @ **PICT, Pune** — CGPA: 9.0/10
+- Software Engineer Intern with hands-on experience in backend systems, cloud deployment, and CI/CD automation
+- Shipped Django & Spring Boot microservices on AWS, cutting API latency by **40%** and eliminating deployment failures
+- Passionate about building AI-powered full-stack applications and scalable distributed systems
+- Solved **300+ DSA problems** on LeetCode and GeeksforGeeks
+- Secured **1st Place** at a State-Level Technical Paper Presentation
+- Based in Pune, Maharashtra, India
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -77,28 +77,28 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🛡️ Sentinel — Real-Time Network Anomaly Detection
+### Sentinel — Real-Time Network Anomaly Detection
 **Node.js • FastAPI • MongoDB • React • Socket.IO • Scikit-learn**
 - Achieved sub-100ms anomaly detection at 10,000+ events/sec via a real-time telemetry pipeline streamed to a live React dashboard over Socket.IO
 - Flagged anomalies with Low/Medium/Critical severity using an Isolation Forest classifier trained on a cybersecurity dataset
 - Cut p95 inference latency by 22% by instrumenting the FastAPI service with OpenTelemetry and optimizing the preprocessing bottleneck
 
-### 🧠 Athena — Adaptive Learning Platform
+### Athena — Adaptive Learning Platform
 **Node.js • Express.js • MongoDB • JWT • Jest**
 - Cut average doubt-resolution time from 4 hours to under 10 seconds with an LLM-based doubt resolution agent
 - Secured multi-tenant access with JWT-based RBAC while maintaining 85%+ test coverage
 - Kept the codebase maintainable at scale using Strategy and Factory design patterns across compound-indexed MongoDB collections
 
-### 🏢 Orbit — Distributed Workforce Automation
+### Orbit — Distributed Workforce Automation
 **Spring Boot • React • PostgreSQL**
 - Cut database query latency by 50% by optimizing the PostgreSQL schema with compound indexing
 - Decoupled scaling across modules with an async, event-driven notification service independent of the core request path
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Software Engineer Intern** · SR Associates, Pune (Hybrid)
 `Feb 2026 – Mar 2026`
@@ -114,35 +114,22 @@
 
 ---
 
-## 📊 GitHub Statistics
+## Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachinkokare07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkokare07&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinkokare07&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+- Won 1st Place at a State-Level Technical Paper Presentation for original technical research
+- CGPA 9.0/10 at Pune Institute of Computer Technology
+- Solved 300+ DSA problems on LeetCode and GeeksforGeeks
+- 91.10% in Diploma — Abhinav Education Society's COET, Satara
+- Completed 2 software engineering internships across cloud and platform engineering
 
 ---
 
-## 🏆 Achievements
+## Contact
 
-- 🥇 Won 1st Place at a State-Level Technical Paper Presentation for original technical research
-- 🎓 CGPA 9.0/10 at Pune Institute of Computer Technology
-- 🧩 Solved 300+ DSA problems on LeetCode and GeeksforGeeks
-- 📜 91.10% in Diploma — Abhinav Education Society's COET, Satara
-- 🌐 Completed 2 software engineering internships across cloud and platform engineering
-
----
-
-## 📫 Contact
-
-- 💼 LinkedIn: [linkedin.com/in/sachin-kokare](https://linkedin.com/in/sachin-kokare)
-- 🐙 GitHub: [github.com/sachinkokare07](https://github.com/sachinkokare07)
-- 📧 Email: sachinkokare1595@gmail.com
-- 🌍 Portfolio: [sachin-kokare.vercel.app](https://sachin-kokare.vercel.app)
+- LinkedIn: [linkedin.com/in/sachin-kokare](https://linkedin.com/in/sachin-kokare)
+- GitHub: [github.com/sachinkokare07](https://github.com/sachinkokare07)
+- Email: sachinkokare1595@gmail.com
+- Portfolio: [sachin-kokare.vercel.app](https://sachin-kokare.vercel.app)
 
 ---
 
