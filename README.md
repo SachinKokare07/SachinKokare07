@@ -119,8 +119,6 @@
 - Won 1st Place at a State-Level Technical Paper Presentation for original technical research
 - CGPA 9.0/10 at Pune Institute of Computer Technology
 - Solved 300+ DSA problems on LeetCode and GeeksforGeeks
-- 91.10% in Diploma — Abhinav Education Society's COET, Satara
-- Completed 2 software engineering internships across cloud and platform engineering
 
 ---
 
